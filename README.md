@@ -30,5 +30,5 @@ Apasionado por nuevas tecnologias y con gran creatividad para el desarrollo web.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git" width="40" height="40"/> </a>
 
 ### Contacto
-<a href="https://www.linkedin.com/in/felduque" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/93/587/png-clipart-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue.png" alt="Linkedin" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/felduque" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/kFJzAZryEscq/linkedin-circled" alt="Linkedin" width="40" height="40"/> </a>
 
