@@ -4,7 +4,7 @@
 
 ## ✨ Sobre Mi
 
-Apasionado por nuevas tecnologias y con gran creatividad para el desarrollo web. Joven de 23 años recidente en la ciudad de Medellin Colombia con deseos de seguir aprendiendo, aportando y creando nuevos proyectos.
+Apasionado por nuevas tecnologias y con gran creatividad para el desarrollo web. Joven de 25 años recidente en la ciudad de Medellin Colombia con deseos de seguir aprendiendo, aportando y creando nuevos proyectos.
 ## 🛠 Habilidades
 
 ### 🎨 Frontend
