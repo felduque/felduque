@@ -21,10 +21,10 @@ Soy desarrollador Full Stack con más de 4 años de experiencia creando aplicaci
 
 ## 💼 Experiencia
 
-**Desarrollador Full Stack (enfoque Mobile)** · *Home Power Colombia* · Jul 2025 – Actualidad
+**Desarrollador Full Stack (enfoque Mobile)** · *Home Power Colombia* · Jun 2025 – Actualidad
 Apps iOS y Android con React Native, WebSockets en tiempo real, autenticación social con Google Sign-In y Facebook Login (OAuth 2.0), estado global con Zustand y AsyncStorage, frontends en Angular 18+ y módulos ERP en Odoo con Python y PostgreSQL.
 
-**Desarrollador de Automatización de Comercio Electrónico** · *Elite Automation Group S.A.S.* · Abr 2023 – Nov 2024
+**Desarrollador de Automatización de Comercio Electrónico** · *Elite Automation Group S.A.S.* · Ene 2023 – Feb 2025
 Integración con Amazon SP-API (APIs REST) usando Node.js y TypeScript, y soluciones en Google Cloud Platform con Cloud Tasks para automatizar la gestión de inventario, compras y análisis de rentabilidad.
 
 ---
