@@ -116,5 +116,5 @@ Integración con Amazon SP-API (APIs REST) usando Node.js y TypeScript, y soluci
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&locale=es)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&locale=es)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felduque&show_icons=true&hide_border=true&locale=es)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felduque&layout=compact&hide_border=true&locale=es)
